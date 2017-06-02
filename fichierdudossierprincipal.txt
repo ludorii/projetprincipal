@@ -1,1 +1,3 @@
 Fichier du dossier principal 1
+
+Voici un ajout de texte 

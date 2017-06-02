@@ -1,3 +1,6 @@
 [submodule "bibliotheque"]
 	path = bibliotheque
 	url = https://github.com/ludorii/bibliotheque.git
+[submodule "autrenom"]
+	path = autrenom
+	url = https://github.com/ludorii/bibliotheque.git
